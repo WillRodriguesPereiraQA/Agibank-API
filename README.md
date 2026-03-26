@@ -2,6 +2,8 @@
 
 ## Descrição
 
+*Testes realizados em uma máquina WINDOWS*
+
 Framework baseado em Playwright e TypeScript de automação de casos de testes de QA para validação dos endpoints da Dog API. Os testes usam o request API do Playwright para testar endpoints HTTP. 
 A spec 'dogapi.spec.ts' testa a Dog API pública (https://dog.ceo). Valida endpoints públicos de imagens/raças que vêm do serviço dog.ceo.
 
