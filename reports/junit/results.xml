@@ -1,14 +1,14 @@
-<testsuites id="" name="" tests="5" failures="0" skipped="0" errors="0" time="2.7270499999999998">
-<testsuite name="dogapi.spec.ts" timestamp="2026-03-26T21:07:56.275Z" hostname="" tests="5" failures="0" skipped="0" time="1.261" errors="0">
-<testcase name="Dog API - Playwright API tests › GET /breeds/list/all returns object of breeds" classname="dogapi.spec.ts" time="0.384">
+<testsuites id="" name="" tests="5" failures="0" skipped="0" errors="0" time="2.657719">
+<testsuite name="dogapi.spec.ts" timestamp="2026-03-26T21:30:16.135Z" hostname="" tests="5" failures="0" skipped="0" time="1.321" errors="0">
+<testcase name="Dog API - Playwright API tests › GET /breeds/list/all returns object of breeds" classname="dogapi.spec.ts" time="0.426">
 </testcase>
-<testcase name="Dog API - Playwright API tests › GET /breed/{breed}/images returns array of images" classname="dogapi.spec.ts" time="0.215">
+<testcase name="Dog API - Playwright API tests › GET /breed/{breed}/images returns array of images" classname="dogapi.spec.ts" time="0.219">
 </testcase>
-<testcase name="Dog API - Playwright API tests › GET /breed/{breed}/images/random returns single url" classname="dogapi.spec.ts" time="0.218">
+<testcase name="Dog API - Playwright API tests › GET /breed/{breed}/images/random returns single url" classname="dogapi.spec.ts" time="0.216">
 </testcase>
-<testcase name="Dog API - Playwright API tests › GET random 3 images returns array of length 3" classname="dogapi.spec.ts" time="0.224">
+<testcase name="Dog API - Playwright API tests › GET random 3 images returns array of length 3" classname="dogapi.spec.ts" time="0.229">
 </testcase>
-<testcase name="Dog API - Playwright API tests › GET invalid breed returns error" classname="dogapi.spec.ts" time="0.22">
+<testcase name="Dog API - Playwright API tests › GET invalid breed returns error" classname="dogapi.spec.ts" time="0.231">
 </testcase>
 </testsuite>
 </testsuites>
